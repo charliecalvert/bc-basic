@@ -3,4 +3,4 @@ bc-basic
 
 Core code for students in my mobile and cloud courses
 
-Also see JsObjects
+Also see JsObjects. It contains numerous coding examples.
